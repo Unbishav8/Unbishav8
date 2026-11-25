@@ -1,17 +1,53 @@
-<h1 align="center">Hi 👋, I'm Vishnu Vardhan</h1>
-<h3 align="center">passionate cloud developer from India</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [CREATING A VM ON AZURE](https://1stopproject.unbishavprojects.shop/)
+# Hi there, I'm Yedupati Vishnu Vardhan 👋
+### Web Developer & Aspiring DevOps Engineer
 
-- 🌱 I’m currently learning **Cloud compute services and Cyber Security**
+[![Website](https://img.shields.io/badge/Live_Portfolio-CloudFront-7c9cff?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://d1u4n12n1n83hf.cloudfront.net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishnu_Vardhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-vardhan-yedupati-102a58272/)
+[![GitHub](https://img.shields.io/badge/GitHub-Unbishav8-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Unbishav8)
+[![Gmail](https://img.shields.io/badge/Email-yvishnu057@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yvishnu057@gmail.com)
 
-- 📫 How to reach me **yedupati8@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/unbishav8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unbishav8" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vishnu vardhan yedupati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnu vardhan yedupati" height="30" width="40" /></a>
+<p align="center">
+  <em>"I build scalable, secure web applications with React, Node.js, Python, and PHP — and automate their cloud delivery with Terraform & AWS."</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+</div>
+
+---
+
+### 🚀 About Me
+
+- 📍 Based in **Visakhapatnam / Hyderabad, India** *(Open to Remote & Relocation)*
+- 💻 Experienced across both front-end and back-end architectures, REST APIs, and database design.
+- ☁️ Currently deepening my expertise in **Terraform**, **Docker**, and **AWS Cloud Infrastructure** (S3, CloudFront, IAM).
+- 🎯 **Goal:** Building production-grade, highly available full-stack systems and automated DevOps CI/CD pipelines.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | `JavaScript (ES6+)`, `Python`, `PHP`, `HTML5`, `CSS3` |
+| **Frontend** | `React 19`, `Vite`, `Responsive UI / CSS Grid`, `Bootstrap` |
+| **Backend & APIs** | `Node.js`, `Express.js`, `Flask`, `REST APIs`, `WebSockets` |
+| **Databases** | `PostgreSQL`, `MySQL`, `Supabase` |
+| **Cloud & DevOps** | `Terraform (IaC)`, `Docker`, `AWS S3`, `AWS CloudFront (CDN/OAC)`, `Git / GitHub` |
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :---: |
+| **Chakara AI Voice Assistant** | Hands-free JARVIS-inspired AI voice assistant with voice synthesis, vision analysis, automation, and persistent memory. | `Python`, `Gemini API`, `Edge TTS`, `WebSockets`, `Supabase` | [Repository](https://github.com/Unbishav8/ChakaraVoiceAssistant) |
+| **Velora E-Commerce Storefront** | Full-stack commerce platform with product search, cart, checkout, order tracking, and an admin dashboard. | `PHP`, `PostgreSQL`, `Supabase`, `Docker`, `Apache` | [Repository](https://github.com/Unbishav8/velora-ecommerce) |
+| **Saffron & Spice Restaurant** | Restaurant platform featuring table reservations, API rate limiting, payload validation, and secure endpoints. | `Node.js`, `Express.js`, `REST API`, `Security / Rate Limiting` | [Repository](https://github.com/Unbishav8/saffron-spice) |
+| **Simple Notes Management (SNM)** | Secure web notes system featuring OTP email verification, user authentication, and encrypted session management. | `Python`, `Flask`, `MySQL`, `SMTP OTP`, `Flask-Session` | [Repository](https://github.com/Unbishav8/snm-main) |
+| **E-Library Management System** | Digital library system for catalog management, user records, issue/return tracking, and reporting. | `PHP`, `MySQL`, `Bootstrap`, `Apache` | [Repository](https://github.com/Unbishav8/e-library) |
+| **Cloud Portfolio (IaC)** | Single Page Application deployed to private AWS S3 and global CloudFront CDN provisioned via Terraform. | `React 19`, `Terraform`, `AWS S3`, `CloudFront`, `OAC` | [Live Site](https://d1u4n12n1n83hf.cloudfront.net) |
+
+---
+
+### ☁️ Cloud Architecture Highlight
