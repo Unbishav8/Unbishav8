@@ -1,12 +1,12 @@
 <div align="center">
 
 # Hi there, I'm Yedupati Vishnu Vardhan 👋
-### Web Developer & Aspiring DevOps Engineer
+### Full-Stack Developer & Aspiring DevOps Engineer
 
-[![Website](https://img.shields.io/badge/Live_Portfolio-CloudFront-7c9cff?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://d1u4n12n1n83hf.cloudfront.net)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishnu_Vardhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-vardhan-yedupati-102a58272/)
-[![GitHub](https://img.shields.io/badge/GitHub-Unbishav8-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Unbishav8)
-[![Gmail](https://img.shields.io/badge/Email-yvishnu057@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yvishnu057@gmail.com)
+[![Live Portfolio](https://img.shields.io/badge/Live%20Portfolio-7c9cff?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://d1u4n12n1n83hf.cloudfront.net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-vardhan-yedupati-102a58272/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Unbishav8)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yvishnu057@gmail.com)
 
 <p align="center">
   <em>"I build scalable, secure web applications with React, Node.js, Python, and PHP — and automate their cloud delivery with Terraform & AWS."</em>
