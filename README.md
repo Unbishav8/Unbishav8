@@ -51,3 +51,20 @@
 ---
 
 ### ☁️ Cloud Architecture Highlight
+
+- **Origin Access Control (OAC):** Direct public access to S3 is blocked; only CloudFront edge nodes can fetch content.
+- **Infrastructure as Code:** S3, CDN distributions, bucket policies, and cache invalidation workflows are automated.
+
+---
+
+### 📬 Get In Touch
+
+- **Portfolio:** [https://d1u4n12n1n83hf.cloudfront.net](https://d1u4n12n1n83hf.cloudfront.net)
+- **Email:** [yvishnu057@gmail.com](mailto:yvishnu057@gmail.com)
+- **LinkedIn:** [Vishnu Vardhan Yedupati](https://www.linkedin.com/in/vishnu-vardhan-yedupati-102a58272/)
+- **Phone:** `+91 8919739983`
+
+---
+<div align="center">
+  <sub>Designed & Developed by Yedupati Vishnu Vardhan • Built with React & Deployed with Terraform</sub>
+</div>
